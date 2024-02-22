@@ -20,6 +20,6 @@ The routes below shows the following:
 -api/v1.0/precipitation - Return a JSON representation of precipitation data for the last 12 months.
 -api/v1.0/stations - Return a JSON list of stations.
 -api/v1.0/tobs - Return a JSON list of temperature observations for the most active station.
--api/v1.0/<start>/<end> -  Return a JSON list of the minimum, average, and maximum temperatures for a date range.
+-api/v1.0/start/end -  Return a JSON list of the minimum, average, and maximum temperatures for a date range.
 
 
